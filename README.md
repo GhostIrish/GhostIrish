@@ -4,6 +4,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Hariel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20%7C%20Desenvolvedor&descAlignY=55&descSize=18"/>
 </p>
 
+<!-- TYPING -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Automações+e+Integrações;Soluções+voltadas+para+problemas+reais;Python+%7C+React+%7C+APIs+%7C+Dados" />
+</p>
 
 <!-- APRESENTAÇÃO -->
 
@@ -27,11 +32,11 @@ Construindo soluções reais com desenvolvimento, automações, integrações e 
 
 ## 🚀 Sobre mim
 
-💻 Atualmente desenvolvendo projetos voltados para automação, gestão e soluções web
+💻 Desenvolvendo projetos voltados para automação, gestão e soluções web
 
-📚 Estudando e evoluindo constantemente no ecossistema Full Stack
+⚡ Experiência com APIs, integrações, bancos de dados e desenvolvimento de sistemas
 
-⚡ Experiência com integrações, APIs, bancos de dados e desenvolvimento de sistemas
+📚 Evoluindo constantemente no ecossistema Full Stack
 
 🎯 Focado em criar tecnologia para resolver problemas reais
 
@@ -69,14 +74,21 @@ Construindo soluções reais com desenvolvimento, automações, integrações e 
 
 ---
 
+## 🏆 Destaques
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GhostIrish&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+
+</div>
+
+---
+
 ## 📌 Projetos em destaque
 
 🚧 Sistemas de gestão e automação
-
 🌐 Aplicações Web Full Stack
-
 📦 Integrações e APIs
-
 📊 Soluções voltadas para dados e processos
 
 <div align="center">
@@ -88,7 +100,6 @@ Construindo soluções reais com desenvolvimento, automações, integrações e 
 </a>
 
 </div>
-
 
 ---
 
