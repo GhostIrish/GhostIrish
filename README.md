@@ -10,7 +10,7 @@ Construindo soluções reais com desenvolvimento, automações, integrações e 
   <img src="https://img.shields.io/badge/🌐%20Portfólio-hariel.site-111?style=for-the-badge">
 </a>
 
-<a href="https://linkedin.com/in/SEUUSER" target="_blank">
+<a href="https://linkedin.com/in/hariel-pimenta" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -34,7 +34,7 @@ Construindo soluções reais com desenvolvimento, automações, integrações e 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,typescript,javascript,fastapi,flask,django,nodejs,mysql,postgree,sqlite,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,react,typescript,javascript,fastapi,flask,django,nodejs,mysql,postgreesql,sqlite,git,linux" />
 
 </div>
 
